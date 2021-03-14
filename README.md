@@ -4,18 +4,18 @@
 Completed Tasks:
 
 -  A neural network with 62% accuracy on test set
-- A simple flask API to consume the model and perform predictionn
+- A simple flask API to consume the model and perform prediction
 - Dockerization of the flask app
 
 Todo Tasks:
 
-- Enhance the flask app to have more endpoints i.e to store prediction outputs, to store uset inputs etc that too in a structured manner.
+- Enhance the flask app to have more endpoints i.e to store prediction outputs, to store user inputs etc that too in a structured manner.
 - Integrate flask app with a database
 - Upload the app to AWS cloud
 
 What it contains:
 
-- A python nnotebook with EDA and model training code and results evaluation
+- A python notebook with EDA and model training code and results evaluation
 - An HTML version of the python notebook for easy viewing
 - A flask web app
 - A dockerfile to build and run a container
