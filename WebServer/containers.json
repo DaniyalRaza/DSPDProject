@@ -1,0 +1,8 @@
+{
+  "webserver": {
+    "image": ":dspd-service.dspd-container.1",
+    "ports": {
+      "80": "HTTP"
+    }
+  }
+}
