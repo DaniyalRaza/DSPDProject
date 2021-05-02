@@ -13,8 +13,8 @@ Phase III:
 
         curl --location --request POST 'https://dspd-service.lhth73asbhl1c.us-west-2.cs.amazonlightsail.com/predict' --form 'file=@"sad3.jpeg"'
         
-- Trained a ResNet-50 model with 70% accuracy. The Notebook for that model has also attached
-- Performed Quantization using tflite and reduced 10x size.
+- Trained a ResNet-50 model with 70% accuracy. The Notebook for that model is also attached
+- Performed Quantization using tflite which reduced the size by 10x.
 - Performed Pruning and reduced the model size by 50% but the accuracy got reduced from 70% to 54%.
 
 Phase IV:
