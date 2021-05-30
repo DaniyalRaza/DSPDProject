@@ -25,6 +25,14 @@ Phase IV:
 - Iterate on model quality to strike a reasonable accuracy to size balance.
 - Expose the final model through the flask application already on cloud
 
+What we did in phase IV:
+
+- Refined Business logic
+- Integrated Databases
+- Uploaded new end points to the server
+- Uploaded more accurate model i.e 70%
+- Created User Application in iOS.
+
 
 *Doesn't include the training and test data to reduce repo size, can be furnished upon request*
 
